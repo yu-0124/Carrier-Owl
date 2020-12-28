@@ -1,8 +1,9 @@
 # arxivの学問領域の指定
-subject: 'cs'
+subject: 'astro-ph'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        volcano: 3
+        monitoring: 1
+        machine learning: 3
+        anomaly detection: 2
