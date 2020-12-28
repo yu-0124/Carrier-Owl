@@ -1,11 +1,10 @@
 # arxivの学問領域の指定
-subject: 'cs'
+subject: 'physics'
 
 # 検索キーワード
 keywords:
     sound: 1
-    audio: 1
-    sound feature: 3
-    audio feature: 3
-    noise removal: 2
-    spectrogram: 3
+    volcano: 1
+    monitoring: 1
+    prediction: 3
+    lightning: 3
