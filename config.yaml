@@ -4,7 +4,9 @@ subject: 'physics.geo-ph'
 # 検索キーワード
 keywords:
     sound: 1
-    volcano: 1
     monitoring: 1
     prediction: 3
     lightning: 3
+    Tropomi: 2
+    volcanic eruption: 1
+    learning: 3
